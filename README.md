@@ -9,4 +9,4 @@
 
 ## Examples of Work
 <img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-low.gif" width="256">
-<div width="256" heigh="256" backgroundColor="red"></div>
+<div width="256" heigh="256" style="backgroundColor: red"></div>
