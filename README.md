@@ -2,6 +2,7 @@
 
 
 # Paulina Król
+<img src="https://github.com/paukrol/paukrol/blob/main/banner-git-about.jpg">
 
 ## Skills and Expirience 
 * 💻 HTML, CSS, JS, SASS
