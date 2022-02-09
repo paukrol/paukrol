@@ -8,4 +8,4 @@
 * 📱 Photoshop
 
 ## Examples of Work
-<a href="google.com"><img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-high.gif" width="640"></a>
+<a href="http://google.com"><img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-high.gif" width="640"></a>
