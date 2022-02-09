@@ -8,4 +8,5 @@
 * 📱 Photoshop
 
 ## Examples of Work
-<img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-low.gif" width="256" style="boxShadow: 0 5px 10px #000">
+<img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-low.gif" width="256">
+<div width="256" heigh="256" backgroundColor="red"></div>
