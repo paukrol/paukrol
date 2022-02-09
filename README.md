@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/paukrol/paukrol/blob/main/banner-git.jpg)
+![I am GitHub Readme Generator's creator]()
 
 
 # Paulina Król
