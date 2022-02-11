@@ -14,3 +14,5 @@
 <a href="https://planner-pauprenses.netlify.app"><img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-high.gif" width="500"></a>
 ### Photography - landing page
 <a href="https://photography-pauprenses.netlify.app/"><img src="https://github.com/paukrol/paukrol/blob/main/photography-gif.gif" width="500"></a>
+### Black Jack Dice Game 
+<a href="https://blackjack-game-pauprenses.netlify.app/"><img src="https://github.com/paukrol/paukrol/blob/main/blackjack%20gif.gif" width="500"></a>
