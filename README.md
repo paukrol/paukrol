@@ -10,5 +10,5 @@
 * 📱 Photoshop
 
 ## Examples of Work
-<a href="https://planner-pauprenses.netlify.app"><img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-high.gif" width="640"></a>
-<a href="https://google.com"><img src="https://github.com/paukrol/paukrol/blob/main/photography-gif.gif" width="640"></a>
+<a href="https://planner-pauprenses.netlify.app"><img src="https://github.com/paukrol/paukrol/blob/main/planner-app-gif-high.gif" width="500"></a>
+<a href="https://google.com"><img src="https://github.com/paukrol/paukrol/blob/main/photography-gif.gif" width="500"></a>
