@@ -15,6 +15,6 @@
 ### Photography - landing page
 <a href="https://photography-pauprenses.netlify.app/"><img src="https://github.com/paukrol/paukrol/blob/main/photography-gif.gif" width="500"></a>
 ### The Road - landing page''
-<a href="https://theroad-pauprenses.netlify.app/"><img src="https://github.com/paukrol/paukrol/blob/main/theroad-gif.gif" width="500" target="_blank"></a>
+<a href="https://theroad-pauprenses.netlify.app/"><img src="https://github.com/paukrol/paukrol/blob/main/theroad-gif.gif" width="500"></a>
 ### Black Jack Dice Game 
 <a href="https://blackjack-game-pauprenses.netlify.app/"><img src="https://github.com/paukrol/paukrol/blob/main/blackjack%20gif.gif" width="500"></a>
